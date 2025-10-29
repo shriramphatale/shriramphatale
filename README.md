@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriramphatale&label=Profile%20views&color=0e75b6&style=flat" alt="shriramphatale" /> </p>
 
-- 🌱 I’m currently learning **C++,Python,DSA,HTML,CSS,JS**
+- 🌱 I’m currently learning **MERN,C++,Python,DSA**
 
 - 📫 How to reach me **shriramphatale833@gmail.com**
 
