@@ -6,7 +6,7 @@
   <img
     src="./GTR_GIF.gif"
     alt="GTR drifting animation"
-    height="180"
+    height="200"
     align="right"
   />
 </div>
