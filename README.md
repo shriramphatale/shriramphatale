@@ -16,3 +16,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriramphatale&show_icons=true&locale=en&layout=compact" alt="shriramphatale" /></p>
 
+<p><img
+    src="./GTR_GIF.gif"
+    alt="GTR GIF"
+    height="200"
+  /></p>
+
