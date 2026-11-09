@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [AskDoc.ai](https://github.com/shriramphatale/askdoc-ai)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shriramphatale.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shriramphatale.uno/)
 
 ### Languages and Tools:
 
